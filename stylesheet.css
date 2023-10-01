@@ -52,7 +52,7 @@ span{
 .content a{
     background: blue;
     text-decoration: none;
-    color: white smoke;
+    color: #fff;
     padding: 10px 20px;
     font-weight: bold;
     display: inline-block;
